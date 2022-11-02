@@ -56,3 +56,35 @@ Created a C program which executes a mathematical function which gives the resul
         printf("The Reminder of A & B is %d\n", g);
         return 0;
     } 
+
+C Program 03
+
+Created a C Program which executes the average of 3 values.
+
+    #include <stdio.h>
+    int main() {
+        int a, b, c;
+        int avg;
+        printf("what is the value of A?\n");
+        scanf("%d", &a);
+        printf("what is the value of B?\n");
+        scanf("%d", &b);
+        printf("what is the value of C?\n");
+        scanf("%d", &c);
+        avg = (a + b + c)/3;
+        printf("The Average of A, B, C is %d\n", avg);
+        return 0;
+    }
+
+C Program 04
+
+Learnt the Increment and Decrement operator in C launguage
+    
+    #include <stdio.h>
+    int main() {
+        int a, b;
+        a = 10;
+        b = a++;
+        printf("The value of A is %d\nThe value of B is %d\n", a, b);
+        return 0;
+    }
