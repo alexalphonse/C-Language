@@ -1,7 +1,7 @@
-#Day02
+Day02
 Learnt to Add Numbers and execute it.
 
-##C Program 01
+C Program 01
 
 ##created a C program which executes a mathematical addition function where a=10 and b=20.
 
@@ -15,9 +15,9 @@ int main() {
     return 0;
 }
 
-##C Program 02
+C Program 02
 
-##created a C program which executes a mathematical addition function Where we can manually add value to A and B.
+Created a C program which executes a mathematical addition function Where we can manually add value to A and B.
 
 #include <stdio.h>
 int main() {
@@ -32,9 +32,9 @@ int main() {
 }
 
 
-##C Program 03
+C Program 03
 
-##created a C program which executes a mathematical function which gives the result of A and B in Addittion,Subtraction,Multiplication,Division,Reminder.
+Created a C program which executes a mathematical function which gives the result of A and B in Addittion,Subtraction,Multiplication,Division,Reminder.
 
 #include <stdio.h>
 
