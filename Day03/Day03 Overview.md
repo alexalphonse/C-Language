@@ -50,7 +50,25 @@
             sum+=(n%10);
             n/=10;
         }
-        printf("The Modulus of %d is %d\n", n, sum);
+        printf("The Modulus is %d\n", sum);
     
+        return 0;
+    }
+
+## C Program 04
+
+## Created a Nested loop C Program.
+
+    #include <stdio.h>
+    int main() {
+        int row, col, n;
+        printf("Enter value\n");
+        scanf("%d", &n);
+        for(row = 1;row <=n; row+=1) {
+            for(col = 1; col <= row; col +=1) {
+                printf("%d", col);
+            }
+            printf("\n");
+        }
         return 0;
     }

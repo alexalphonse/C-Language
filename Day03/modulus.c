@@ -8,7 +8,7 @@ int main() {
         sum+=(n%10);
         n/=10;
     }
-    printf("The Modulus of %d is %d\n", n, sum);
+    printf("The Modulus is %d\n", sum);
     
     return 0;
 }
