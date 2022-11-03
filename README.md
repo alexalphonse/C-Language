@@ -4,11 +4,11 @@ figuring out what C Language is.
 Hey,
 I am a noob trying to learn C language so please bear with me, Would love to hear some inputs from you aswell.
 
-Day 01
+## Day 01
     
     Learnt how to execute hello in C language.
 
-Day 02
+## Day 02
     
     Learnt to Add Numbers Created a C program which executes a mathematical addition function where a=10 and b=20.
     
