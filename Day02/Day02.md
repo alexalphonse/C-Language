@@ -78,7 +78,7 @@ Created a C Program which executes the average of 3 values.
 
 C Program 04
 
-Learnt the Increment and Decrement operator in C launguage
+Learnt the Increment and Decrement operator in C language
     
     #include <stdio.h>
     int main() {
@@ -92,7 +92,7 @@ Learnt the Increment and Decrement operator in C launguage
 
 C Program 05
 
-Learnt If Statement in C launguage.
+Learnt If Statement in C language.
 
     #include <stdio.h>
     int main() {
@@ -111,7 +111,7 @@ Learnt If Statement in C launguage.
 
 C Program 06
 
-Learnt Nested statement in C launguage.
+Learnt Nested statement in C language.
 
 
     #include <stdio.h>
@@ -155,7 +155,7 @@ Learnt Simple if statement and created a Discount Program using C language.
 
 C Program 08
 
-Learnt While loop, Dowhile loop and For loop in C launguage.
+Learnt While loop, Dowhile loop and For loop in C language.
 
     #include <stdio.h>
 
