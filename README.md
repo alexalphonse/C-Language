@@ -6,7 +6,7 @@ I am a noob trying to learn C language so please bear with me, Would love to hea
 
 Day 01
     
-    Learnt how to execute hello in C laumguage.
+    Learnt how to execute hello in C language.
 
 Day 02
     
@@ -18,12 +18,12 @@ Day 02
     
     Created a C Program which executes the average of 3 values.
     
-    Learnt the Increment and Decrement operator in C launguage
+    Learnt the Increment and Decrement operator in C language
     
-    Learnt If Statement in C launguage.
+    Learnt If Statement in C language.
     
-    Learnt Nested statement in C launguage.
+    Learnt Nested statement in C language.
     
     Learnt Simple if statement and created a Discount Program using C language.
     
-    Learnt While loop, Dowhile loop and For loop in C launguage.
+    Learnt While loop, Dowhile loop and For loop in C language.
