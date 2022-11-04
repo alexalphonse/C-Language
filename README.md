@@ -27,3 +27,13 @@ I am a noob trying to learn C language so please bear with me, Would love to hea
     Learnt Simple if statement and created a Discount Program using C language.
     
     Learnt While loop, Dowhile loop and For loop in C language.
+
+# Day 03
+
+    Solved a problem where i had to print till the number entered in C language.
+
+    Solved a factorial multiplaction problem in C language.
+
+    Solved a modulus operation in C language.
+
+    Created a Nested loop C Program.
